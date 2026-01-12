@@ -4,7 +4,7 @@ This project analyzes whether hitters with higher average exit velocity tend to 
 
 ## Data
 - Source: MLB Statcast (via pybaseball)
-- Season: 2024
+- Season: 2025
 - Sample: Hitters with at least 100 balls in play
 
 ## Method
